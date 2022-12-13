@@ -11,12 +11,6 @@
 
 - 📄 Know about my experiences [https://www.cakeresume.com/s--UfAR_zxPsnc9fvbZn8R5GQ--/blc0000421](https://www.cakeresume.com/s--UfAR_zxPsnc9fvbZn8R5GQ--/blc0000421)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/林英豪" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="林英豪" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sc_lemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sc_lemon" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > 
