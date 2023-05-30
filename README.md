@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VueJS & SpringFrameWork**
 
-- 👨‍💻 All of my projects are available at [https://sc1314520.github.io/personal.github.io/](https://sc1314520.github.io/personal.github.io/)
+- 👨‍💻 All of my projects are available at [https://sclemon.github.io/sccj/](https://sclemon.github.io/sccj/)
 
 - 📫 How to reach me **blc0000421@gmail.com**
 
